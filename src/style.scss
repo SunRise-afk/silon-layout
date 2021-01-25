@@ -1,0 +1,12 @@
+@import "./fonts.css";
+$ff_roboto: "Roboto", "serif";
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  box-sizing: border-box;
+  font-family: $ff_roboto;
+  font-weight: 400;
+}
