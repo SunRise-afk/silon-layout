@@ -1,6 +1,7 @@
 {
   "name": "silon",
   "version": "1.0.0",
+  "homepage": "https://sunrise-afk.github.io/silon-layout/",
   "description": "silon ecommerce layout",
   "main": "index.js",
   "scripts": {
@@ -29,5 +30,7 @@
     "webpack-dev-server": "^3.11.2",
     "clean-webpack-plugin": "^3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
